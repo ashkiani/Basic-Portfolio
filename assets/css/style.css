@@ -18,13 +18,17 @@ header{
   background: teal;
   /* border: 2px solid black; */
 }
-.Header_Name{
-  float: left;
-}
-.Header_NavBar{
-  
-  display: inline-block;
+#Header_Name{
+  float:left;
+  padding:7.5px;
   vertical-align: middle;
+}
+#Header_NavBar{
+  
+  
+  vertical-align: middle;
+  
+  
 }
 ul{
   list-style-type: none;
@@ -50,4 +54,5 @@ li a:hover {
 }
 img{
   float: left;
+  padding: 5px;
 }
