@@ -66,7 +66,8 @@ img{
   border: 1px solid black;
 }
 p{
-  margin-top: 10px;
+  
+  margin: 10px 0 5px 10px;
 }
 .Main_Title{
   color: #4aaaa5;
@@ -78,4 +79,24 @@ footer{
   text-align: center;
   height: 50px;
   border-top: 10px solid #4aaaa5;
+}
+
+.NameEmail,.Message,.button{
+  margin: 0 0 0 10px;
+  
+}
+.NameEmail,.Message{
+
+  width: 930px;
+}
+
+
+.Message{
+  height: 100px;
+}
+.button{
+  margin: 10px;
+  color: white;
+  background-color: #4aaaa5;
+  width: 100px;
 }
