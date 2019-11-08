@@ -52,7 +52,7 @@ li a:hover {
     background-color: #111;
 }
 .Main_Section{
-  height: 500px;
+  height: 530px;
   margin: 20px auto;
   background-color: white;
   overflow: hidden;
@@ -61,7 +61,9 @@ li a:hover {
 img{
   float: left;
   padding: 5px;
+  margin: 5px;
   margin-top: 10px;
+  border: 1px solid black;
 }
 p{
   margin-top: 10px;
